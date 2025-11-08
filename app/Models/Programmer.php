@@ -9,7 +9,7 @@ class Programmer
         return [
             'nama' => 'Muhamad Sari Rizki',
             'nim'  => '2301010008',
-            'deskripsi' => 'Programmer 1, Master Programmer alias bossnya',
+            'deskripsi' => 'Programmer 1, ayok pak badminton lagi',
             'foto' => 'images/rizki.JPG',
         ];
     }
@@ -19,7 +19,7 @@ class Programmer
         return [
             'nama' => 'Made Arya Sutha Wijaya',
             'nim'  => '2301010030',
-            'deskripsi' => 'Programmer 2 ternaknya Programmer 1.',
+            'deskripsi' => 'Programmer 2 Cita-cita ternak lele.',
             'foto' => 'images/sutha.jpeg',
         ];
     }
